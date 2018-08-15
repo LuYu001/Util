@@ -1,10 +1,4 @@
 # autobuild.py
-
-Forked from [carya/Util](https://github.com/carya/Util)
-- 添加了描述字段
-- 重写了获取IPA目录的方法
-- 指定使用Python版本
-
 iOS 自动化打包脚本，并上传*ipa*文件至蒲公英。
 ## 参数说明:
 
